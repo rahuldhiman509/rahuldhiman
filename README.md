@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahuldhiman509
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Backend
-- 💞️ I’m looking to collaborate on with Clients
+- 💞️ I’m looking to collaborate with Clients
 - 📫 How to reach me +91 88940-84509
 
 <!---
